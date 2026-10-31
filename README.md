@@ -14,6 +14,18 @@ e1ddb0a9-ee26-47e4-957f-d338d6161b1b
 058aa284-c0cf-4826-beae-9df1cb411623
 <!-- BLUMECORE-YOUTUBER:__global_blume__:END -->
 
+# BlumeCore: Johnny Minecraft
+<!-- BLUMECORE-YOUTUBER:47bmzVjiBzezuF27FqGh:START -->
+0db843ee-3809-42ae-85ef-24cad0505721
+4b7aa5b3-81fd-407a-9ab9-f3bd4c7174ed
+79b730b3-8b9a-4f51-8809-1884089281e3
+97ecef51-c747-42a6-9774-1ca09ce06eda
+a8da4eb2-2bef-4d61-88e1-3aa856b97af5
+db76c896-f896-4366-a57c-70785695c15a
+e19f94d6-3e6f-421f-993f-201a34bf587d
+ef584ed7-4212-4f3d-9ad1-fe34f5e0727c
+<!-- BLUMECORE-YOUTUBER:47bmzVjiBzezuF27FqGh:END -->
+
 # BlumeCore: Parkillerz
 <!-- BLUMECORE-YOUTUBER:N3xsWd7lMDUmH8iPRWtj:START -->
 8f407f29-695d-469c-9be7-68b98acc9007
