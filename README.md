@@ -3,6 +3,13 @@ Minecraft mod access repository for PaintTheWorld
 
 <!-- BLUMECORE-MANAGED-START -->
 
+# BlumeCore: AdiSpot
+<!-- BLUMECORE-YOUTUBER:qYpoGIBiekAYGamzabmB:START -->
+994f359f-ca40-4a20-8db5-8355a173a21d
+d37eae02-cd8e-4e9c-b9d3-313b59ce792f
+f634699c-443b-4a68-abe3-b8d382f5436d
+<!-- BLUMECORE-YOUTUBER:qYpoGIBiekAYGamzabmB:END -->
+
 # BlumeCore: EinfachGustaf
 <!-- BLUMECORE-YOUTUBER:9xOmpBV2UwZLnrVVBvaZ:START -->
 becb0eab-c77b-4f2b-a358-cd8c41c41a8d
