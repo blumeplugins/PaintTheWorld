@@ -10,6 +10,12 @@ d37eae02-cd8e-4e9c-b9d3-313b59ce792f
 f634699c-443b-4a68-abe3-b8d382f5436d
 <!-- BLUMECORE-YOUTUBER:qYpoGIBiekAYGamzabmB:END -->
 
+# BlumeCore: Anko
+<!-- BLUMECORE-YOUTUBER:va3GgOltpiObLQDnpWr5:START -->
+1f434f1b-1869-4e97-bba5-2652eff084d9
+54d775aa-4a72-462c-85e3-68f01c4e7c91
+<!-- BLUMECORE-YOUTUBER:va3GgOltpiObLQDnpWr5:END -->
+
 # BlumeCore: EinfachGustaf
 <!-- BLUMECORE-YOUTUBER:9xOmpBV2UwZLnrVVBvaZ:START -->
 becb0eab-c77b-4f2b-a358-cd8c41c41a8d
