@@ -39,6 +39,13 @@ e19f94d6-3e6f-421f-993f-201a34bf587d
 ef584ed7-4212-4f3d-9ad1-fe34f5e0727c
 <!-- BLUMECORE-YOUTUBER:47bmzVjiBzezuF27FqGh:END -->
 
+# BlumeCore: MrRockis
+<!-- BLUMECORE-YOUTUBER:7odz0A1flUorIrLJACgk:START -->
+35f32889-ec53-4fc0-a079-98044d03beed
+61b6fded-b012-4a01-986a-e8b5267d52a4
+b2b1a36b-dc25-411e-81b3-ed2b4b89afda
+<!-- BLUMECORE-YOUTUBER:7odz0A1flUorIrLJACgk:END -->
+
 # BlumeCore: Parkillerz
 <!-- BLUMECORE-YOUTUBER:N3xsWd7lMDUmH8iPRWtj:START -->
 8f407f29-695d-469c-9be7-68b98acc9007
